@@ -1,0 +1,13 @@
+
+2017-03-2104:39:27 INFO This is an info message.
+2017-03-2104:39:27 ERROR This is an info message.
+2017-03-2104:39:27 INFO This is some important info
+2017-03-2104:39:27 ERROR This aint workin bih
+2017-03-2107:45:29 INFO This is an info message.
+2017-03-2107:45:29 ERROR This is an info message.
+2017-03-2107:45:29 INFO This is some important info
+2017-03-2107:45:29 ERROR This aint workin bih
+2017-03-2107:56:51 INFO This is an info message.
+2017-03-2107:56:51 ERROR This is an info message.
+2017-03-2107:56:51 INFO This is some important info
+2017-03-2107:56:51 ERROR This did not work
